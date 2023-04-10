@@ -53,9 +53,6 @@ export default function Hero() {
                     <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
                         Claims.
                     </h2>
-                    <p className="mt-2 text-lg leading-8 text-gray-600">
-                        Create a new claim here:
-                    </p>
                     <NewClaimForm></NewClaimForm>
                 </div>
                 <button
